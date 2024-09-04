@@ -1,4 +1,12 @@
 body {
-    color:pink;
-    background: black;
+    color:rgb(250, 64, 95);
+    background: rgb(248, 168, 168);
 }
+
+ header {
+      border: solid 2px white;
+ }
+
+ section {
+    background: rgb(252, 189, 205);
+ }
